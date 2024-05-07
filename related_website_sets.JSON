@@ -529,7 +529,7 @@
     {
       "contact": "noc@yandex-team.ru",
       "primary": "https://ya.ru",
-      "associatedSites": ["https://yandex.ru", "https://yandex.net", "https://turbopages.org", "https://auto.ru", "https://kinopoisk.ru", "https://clck.ru", "https://edadeal.ru", "https://webvisor.com", "https://yastatic.net"],
+      "associatedSites": ["https://yandex.ru", "https://yandex.net", "https://turbopages.org", "https://auto.ru", "https://kinopoisk.ru", "https://clck.ru", "https://webvisor.com", "https://yastatic.net"],
       "rationaleBySite": {
         "https://yandex.ru": "Yandex owned website",
         "https://yandex.net": "Yandex owned website",
@@ -538,8 +538,7 @@
         "https://kinopoisk.ru": "Yandex owned website",
         "https://clck.ru": "Yandex owned website",
         "https://webvisor.com": "Yandex owned website",
-        "https://turbopages.org": "Yandex owned website",
-        "https://edadeal.ru": "Yandex owned website"
+        "https://turbopages.org": "Yandex owned website"
       },
       "ccTLDs": {
         "https://ya.ru": ["https://ya.cc"],
