@@ -538,7 +538,7 @@
         "https://kinopoisk.ru": "Yandex owned website",
         "https://clck.ru": "Yandex owned website",
         "https://webvisor.com": "Yandex owned website",
-        "https://turbopages.org": "Yandex owned website",
+        "https://turbopages.org": "Yandex owned website"
       },
       "ccTLDs": {
         "https://ya.ru": ["https://ya.cc"],
